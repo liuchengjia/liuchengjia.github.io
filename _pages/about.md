@@ -26,13 +26,15 @@ Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jia
 - *2016.09 - 2020.09*, B.E. in Automation, Xi'an Jiaotong University, Xi'an, China.
 
 # 💻 Internships
+<span class='anchor' id='interships'></span>
 - *2020.03 - 2020.12*, Xi'an Jiaotong University, [The State Key Laboratory of Multiphase Flow in Power Engineering](http://mfpe.xjtu.edu.cn/), Xi'an, China.
 - *2018.09 - 2019.06*, Xi'an Jiaotong University, Information-technology Talent Program (ITP), Xi'an, China.
 
 # 📝 Publications
-
+<span class='anchor' id='publications'></span>
 - [C1] **Chengjia Liu**, Jnana Preeti Parlapalli, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, Jiang Hu. [Improving Last-Mile Coverage in Functional Verification](https://ieeexplore.ieee.org/document/11189220). ACM/IEEE Symposium on Machine Learning for CAD (**MLCAD**), 2025.
 
 # 🎓 Teaching
+<span class='anchor' id='teaching'></span>
 - [Teaching Assistant] 2025 Spring, ECEN 248: Introduction to Digital Systems Design
 - [Teaching Assistant] 2025 Fall, ECEN 428/722: FPGA Information Processing Systems
