@@ -30,6 +30,7 @@ Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jia
 - *2018.09 - 2019.06*, Xi'an Jiaotong University, Information-technology Talent Program (ITP), Xi'an, China.
 
 # 📝 Publications
+
 - [C1] **Chengjia Liu**, Jnana Preeti Parlapalli, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, Jiang Hu. [Improving Last-Mile Coverage in Functional Verification](https://ieeexplore.ieee.org/document/11189220). ACM/IEEE Symposium on Machine Learning for CAD (**MLCAD**), 2025.
 
 # 🎓 Teaching
