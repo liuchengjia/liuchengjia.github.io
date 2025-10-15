@@ -22,11 +22,12 @@ I am a Ph.D. student in the Department of Electrical & Computer Engineering in T
 Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jiaotong University, China, in 2020. During my undergraduate study, I worked with [Prof. Liangjun Ke](http://gr.xjtu.edu.cn/web/keljxjtu) on proposing an algorithm based on vision sensor and laser SLAM to perform positioning and mapping, solving the problems of insufficient positioning accuracy and inaccurate map construction of unmanned aerial vehicle (UAV). I also worked with [Prof. Jianfu Cao](https://gr.xjtu.edu.cn/en/web/cjf) on the applications of monocular camera and 2D lidar mixed simultaneous localization and mapping (SLAM). Also I was a student from the [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) of Xi'an Jiaotong University.
 
 # 📖 Educations
+<span class='anchor' id='educations'></span>
 - *2023.09 - 2028.06 (now)*, Ph.D in Computer Engineering, Texas A&M University, College Station, TX, US.
 - *2016.09 - 2020.09*, B.E. in Automation, Xi'an Jiaotong University, Xi'an, China.
 
 # 💻 Internships
-<span class='anchor' id='interships'></span>
+<span class='anchor' id='internships'></span>
 - *2020.03 - 2020.12*, Xi'an Jiaotong University, [The State Key Laboratory of Multiphase Flow in Power Engineering](http://mfpe.xjtu.edu.cn/), Xi'an, China.
 - *2018.09 - 2019.06*, Xi'an Jiaotong University, Information-technology Talent Program (ITP), Xi'an, China.
 
