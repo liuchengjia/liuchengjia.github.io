@@ -6,11 +6,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  # - title: "Internships"
-  #   url: "#internships"
+  - title: "Internships"
+    url: "/#-internships"
 
-  # - title: "Publications"
-  #   url: "#publications"
+  - title: "Publications"
+    url: "/#-publications"
 
-  # - title: "Teaching"
-  #   url: "#teaching"
+  - title: "Teaching"
+    url: "/#-teaching"
