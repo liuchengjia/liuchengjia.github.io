@@ -8,8 +8,9 @@
 # Site Settings
 title                    : "Chengjia (Daniel) Liu (刘承佳) - Homepage"
 description              : "Ph.D. Student in Computer Engineering at Texas A&M University."
-repository               : "ChengjiaLiu/PersonalPage"
+repository               : "liuchengjia/liuchengjia.github.io"
 google_scholar_stats_use_cdn : true
+lang : "en-US"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
