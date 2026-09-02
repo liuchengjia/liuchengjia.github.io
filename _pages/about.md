@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in [VERITAS](https://veritas.cse.tamu.edu/) lab at Texas A&M University, under the supervision of [Dr. Jiang Hu](https://engineering.tamu.edu/electrical/profiles/jhu.html), [Dr. Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html), and [Prof. Michael Quinn](https://scholars.library.tamu.edu/vivo/display/na17bbfbd/Persons/View%20All).My research focuses on hardware design verification across simulation-based and formal verification, with an emphasis on ML- and agent-driven techniques for functional coverage closure, RTL root-cause analysis and debugging, and formal counterexample distillation.
+I am a Ph.D. student in [VERITAS](https://veritas.cse.tamu.edu/) lab at Texas A&M University, under the supervision of [Dr. Jiang Hu](https://engineering.tamu.edu/electrical/profiles/jhu.html), [Dr. Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html), and [Prof. Michael Quinn](https://scholars.library.tamu.edu/vivo/display/na17bbfbd/Persons/View%20All). My research focuses on hardware design verification across simulation-based and formal verification, with an emphasis on ML- and agent-driven techniques for functional coverage closure, RTL root-cause analysis and debugging, and formal counterexample distillation.
 
 Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jiaotong University, China, in 2020. During my undergraduate study, I worked with [Dr. Liangjun Ke](http://gr.xjtu.edu.cn/web/keljxjtu) on proposing an algorithm based on vision sensor and laser SLAM to perform positioning and mapping, solving the problems of insufficient positioning accuracy and inaccurate map construction of unmanned aerial vehicle (UAV). I also worked with [Dr. Jianfu Cao](https://gr.xjtu.edu.cn/en/web/cjf) on the applications of monocular camera and 2D lidar mixed simultaneous localization and mapping (SLAM). Also I was a student from the [Special Class for the Gifted Young](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) of Xi'an Jiaotong University.
 
@@ -30,7 +30,7 @@ Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jia
 - *2018.09 - 2019.06*, Xi'an Jiaotong University, Information-technology Talent Program (ITP), Xi'an, China.
 
 # 📝 Publications
-- [C1] **Chengjia Liu**, Jnana Preeti Parlapalli, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, Jiang Hu. **"[Improving Last-Mile Coverage in Functional Verification](https://ieeexplore.ieee.org/document/11189220)"**. *ACM/IEEE Symposium on Machine Learning for CAD (**MLCAD**)*, 2025.
+- [C1] **Chengjia Liu**, Jnana Preeti Parlapalli, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, Jiang Hu. **"[Improving Last-Mile Coverage in Functional Verification](https://ieeexplore.ieee.org/document/11189220)"**. *ACM/IEEE Symposium on Machine Learning for CAD (MLCAD)*, 2025.
 - [J1] **Chengjia Liu**, Priyadarsi Mishra, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, and Jiang Hu, **"Formal-Verification-Guided Bayesian Optimization for Non-Intrusive Last-Mile Coverage Closure"**, *ACM Transactions on Design Automation of Electronic Systems (TODAES)*, under review.
 
 
