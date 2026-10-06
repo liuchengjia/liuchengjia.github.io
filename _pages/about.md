@@ -30,7 +30,7 @@ Before joining Texas A&M, I received my B.E. degree in Automation from Xi'an Jia
 - *2018.09 - 2019.06*, Xi'an Jiaotong University, Information-technology Talent Program (ITP), Xi'an, China.
 
 # 📝 Publications
-- [J1] **Chengjia Liu**, Priyadarsi Mishra, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, and Jiang Hu, **"Formal-Verification-Guided Bayesian Optimization for Non-Intrusive Last-Mile Coverage Closure"**, *ACM Transactions on Design Automation of Electronic Systems (TODAES)*, under review.
+- [J1] **Chengjia Liu**, Priyadarsi Mishra, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, and Jiang Hu, **"Formal-Verification-Guided Bayesian Optimization for Non-Intrusive Last-Mile Coverage Closure"**, *ACM Transactions on Design Automation of Electronic Systems (TODAES)*, accepted for publication.
 - [C1] **Chengjia Liu**, Jnana Preeti Parlapalli, David Kebo Houngninou, Michael Quinn, Aakash Tyagi, Jiang Hu. **"[Improving Last-Mile Coverage in Functional Verification](https://ieeexplore.ieee.org/document/11189220)"**. *ACM/IEEE Symposium on Machine Learning for CAD (MLCAD)*, 2025
 
 # 🎓 Teaching
